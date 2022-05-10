@@ -4,7 +4,7 @@
 In this space, you can find repositories that contain projects that I have worked on using various analytics tools 📊
 
 ### Who am I?<br>
-* 🩺 Recently completed: [***Dietary Habits and Obestity Analysis***](https://github.com/AndrewspWhite/Dietary-Habits-and-Obestity/blob/main/AndrewWhite_Capstone.ipynb)
+* 🩺 Recently completed: [***Dietary Habits and Obesity Analysis***](https://github.com/AndrewspWhite/Dietary-Habits-and-Obestity/blob/main/AndrewWhite_Capstone.ipynb)
 * 📚 Data Analytics bootcamp graduate ([Juno College](https://github.com/HackerYou))<br>
 * 💪🏻 Strengths: optimization, curiosity, critical and creative thinking<br>
 * 🧮 Background in music and day trading the stock market<br>
