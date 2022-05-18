@@ -8,7 +8,7 @@ In this space, you can find repositories that contain projects that I have worke
 * 📚 Data Analytics bootcamp graduate ([Juno College](https://github.com/HackerYou))<br>
 * 💪🏻 Strengths: optimization, curiosity, critical and creative thinking<br>
 * 🧮 Background in music and day trading the stock market<br>
-* 👯 I’m looking to collaborate on testing and implementing stock market strategies
+* 👯 I’m looking to collaborate on building, testing and implementing stock market strategies
 * ⚡ Fun fact: I built a website for a web development class project
 * 🛠 Tech Stack:
  
