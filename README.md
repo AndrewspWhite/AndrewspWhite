@@ -7,8 +7,7 @@ In this space, you can find repositories that contain projects that I have worke
 * 🩺 Recently completed: [***Dietary Habits and Obesity Analysis***](https://github.com/AndrewspWhite/Dietary-Habits-and-Obestity/blob/main/AndrewWhite_Capstone.ipynb)
 * 📚 Data Analytics bootcamp graduate ([Juno College](https://github.com/HackerYou))<br>
 * 💪🏻 Strengths: optimization, curiosity, critical and creative thinking<br>
-* 🧮 Background in music and day trading the stock market<br>
-* 👯 I’m looking to collaborate on building, testing and implementing stock market strategies
+* 🧮 Background in music<br>
 * ⚡ Fun fact: I built a [website](https://andrewspwhite.github.io/index.html) for a web development class project I took a few years ago
 * 🛠 Tech Stack:
  
