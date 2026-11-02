@@ -1,4 +1,4 @@
-# Hi there! I'm Andrew, a Data Analyst 📈
+# Hi there! I'm Andrew, an aspiring Data Analyst 📈
 
 
 In this space, you can find repositories that contain projects that I have worked on using various analytics tools 📊
